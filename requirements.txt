@@ -9,4 +9,3 @@ Flask
 dill
 streamlit==1.32.0
 altair==4.2.2
--e .
